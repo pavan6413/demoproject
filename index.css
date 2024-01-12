@@ -1,0 +1,122 @@
+
+    *{
+        margin: 0px;
+        padding: 0px;
+    }
+
+body{
+    Width: auto;
+    Height: auto;
+    
+
+}
+/* ---------------------Header Part Start---------------------*/
+
+.container{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0, 0.8),rgba(0,0,0, 0.8)), url("ic4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 7px;
+}
+.head{
+    width: 100%;
+    height: 200px;
+}
+.logo{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    margin: 28px 0px 0px 100px;
+
+}
+.logo a{
+    float: left;
+    width: 200;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.logo a:hover{
+    color: rgb(40, 54, 248);
+}
+.header{
+    float: right;
+    width: 800;
+    height: 50px;
+    margin: 7px 200px 0px 0px;
+    text-align: center;
+}
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    margin-left: 30px;
+    
+}
+
+.header a:hover{
+    ackground-color: rgb(174, 67, 201);
+    color: rgb(40, 54, 248);
+}
+
+.middle{
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    color: white;
+}
+.middle h1{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: "Catamaran", sans-serif;
+}
+.middle p{
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+.middle a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.middle button{
+    width: 160px;
+    height: 50px;
+    background-color: rgb(49, 126, 241);
+    border-radius: 40px;
+    border: none;
+}
+.middle button:hover{
+    background-color: rgb(15, 109, 252);
+}
+
+/* ---------------------Header Part Close------------*/
+.footer1{
+    width: auto;
+    height: 60px;
+    text-align: center;
+    background-color: black;
+    padding-top: 40px;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
